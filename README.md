@@ -1,2 +1,2 @@
-# personal_conventions
+# Personal conventions
 Thoughts on conventions to share with my teammates
